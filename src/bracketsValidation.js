@@ -1,6 +1,6 @@
 /**
  * The logic here is very simple. We remove all occurrences of (), [] and {}.
- * We consider the sequence of brackets valid if the result is a empty string. 
+ * We consider the sequence of brackets valid if the result is an empty string. 
  */
 
 function isValidBracketBalance(brackets) {
